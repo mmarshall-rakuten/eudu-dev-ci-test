@@ -92,8 +92,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\..\..\Work\Git\mmarshall-rakuten\eudu-dev-ci-test\src\Rakuten.Catalog.AspNet.Mvc\Rakuten.Catalog.AspNet.Mvc.csproj">
-      <Project>{96E84CEC-B67B-44DA-A335-B71593CF9574}</Project>
+    <ProjectReference Include="..\Rakuten.Catalog.AspNet.Mvc\Rakuten.Catalog.AspNet.Mvc.csproj">
+      <Project>{96e84cec-b67b-44da-a335-b71593cf9574}</Project>
       <Name>Rakuten.Catalog.AspNet.Mvc</Name>
     </ProjectReference>
   </ItemGroup>
