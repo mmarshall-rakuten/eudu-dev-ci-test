@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rakuten.Catalog.AspNet.Mvc"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rakuten.Catalog.AspNet.Mvc.Tests", "Rakuten.Catalog.AspNet.Mvc.Tests\Rakuten.Catalog.AspNet.Mvc.Tests.csproj", "{13B6EB20-7E16-4D9B-995E-1BC1CE9ED97C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rakuten.Catalog.AspNet.Mvc.Tests.Integration", "Rakuten.Catalog.AspNet.Mvc.Tests.Integration\Rakuten.Catalog.AspNet.Mvc.Tests.Integration.csproj", "{AB461976-8B23-4B45-AD5A-02FB731F3A7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{13B6EB20-7E16-4D9B-995E-1BC1CE9ED97C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13B6EB20-7E16-4D9B-995E-1BC1CE9ED97C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13B6EB20-7E16-4D9B-995E-1BC1CE9ED97C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB461976-8B23-4B45-AD5A-02FB731F3A7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB461976-8B23-4B45-AD5A-02FB731F3A7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB461976-8B23-4B45-AD5A-02FB731F3A7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB461976-8B23-4B45-AD5A-02FB731F3A7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
